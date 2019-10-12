@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-
+//This is my first ever Groovy code.
 node{
     stage("Git Checkout"){
         git 'https://github.com/2mpsanketh/DevOpsClassCodes.git'
